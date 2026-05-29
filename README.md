@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://shuqiao-111.github.io/">Project Page</a> ·
+  <a href="https://shuqiao-111.github.io/SpikeHash/">Code Page</a> ·
   <a href="https://shuqiao-111.github.io/assets/paper/SpikeHash.pdf">Paper</a> ·
-  <a href="#release-plan">Release Plan</a> ·
   <a href="#citation">Citation</a>
 </p>
 
