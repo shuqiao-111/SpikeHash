@@ -77,12 +77,14 @@ Zhang, Yukuan, Jiarui Zhao, Shangqing Nie, and Shengsheng Wang. "SpikeHash: Lear
 BibTeX:
 
 ```bibtex
-@article{zhang2026spikehash,
-  title   = {SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval},
-  author  = {Zhang, Yukuan and Zhao, Jiarui and Nie, Shangqing and Wang, Shengsheng},
-  journal = {arXiv preprint arXiv:2606.00740},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2606.00740}
+@misc{zhang2026spikehashlearningbinarycodes,
+      title={SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval}, 
+      author={Yukuan Zhang and Jiarui Zhao and Shangqing Nie and Shengsheng Wang},
+      year={2026},
+      eprint={2606.00740},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2606.00740}, 
 }
 ```
 
