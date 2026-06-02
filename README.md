@@ -1,6 +1,6 @@
 # SpikeHash
 
-> **Code coming soon.**  
+> **代码整理中。**
 > This repository will host the official implementation of **SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval**.
 
 <p align="center">
