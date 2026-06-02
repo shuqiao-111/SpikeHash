@@ -1,7 +1,10 @@
 # SpikeHash
 
-> **代码整理中。**
-> This repository will host the official implementation of **SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval**.
+> **The paper code is being organized.**
+
+> **The paper code is being organized.**
+
+> **The paper code is being organized.**
 
 <p align="center">
   <a href="https://shuqiao-111.github.io/">Project Page</a> ·
