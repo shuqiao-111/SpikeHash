@@ -6,11 +6,17 @@
 <p align="center">
   <a href="https://shuqiao-111.github.io/">Project Page</a> ·
   <a href="https://shuqiao-111.github.io/SpikeHash/">Code Page</a> ·
-  <a href="https://shuqiao-111.github.io/assets/paper/SpikeHash.pdf">Paper</a> ·
+  <a href="https://arxiv.org/pdf/2606.00740">Paper</a> ·
   <a href="#citation">Citation</a>
 </p>
 
 ---
+
+Paper page:
+
+```text
+https://arxiv.org/pdf/2606.00740
+```
 
 ## Overview
 
@@ -62,12 +68,21 @@ SpikeHash/
 
 ## Citation
 
+Google Scholar style:
+
+```text
+Zhang, Yukuan, Jiarui Zhao, Shangqing Nie, and Shengsheng Wang. "SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval." arXiv preprint arXiv:2606.00740 (2026).
+```
+
+BibTeX:
+
 ```bibtex
 @article{zhang2026spikehash,
   title   = {SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval},
   author  = {Zhang, Yukuan and Zhao, Jiarui and Nie, Shangqing and Wang, Shengsheng},
-  journal = {arXiv preprint},
-  year    = {2026}
+  journal = {arXiv preprint arXiv:2606.00740},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2606.00740}
 }
 ```
 
