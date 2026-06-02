@@ -68,14 +68,6 @@ SpikeHash/
 
 ## Citation
 
-Google Scholar style:
-
-```text
-Zhang, Yukuan, Jiarui Zhao, Shangqing Nie, and Shengsheng Wang. "SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval." arXiv preprint arXiv:2606.00740 (2026).
-```
-
-BibTeX:
-
 ```bibtex
 @misc{zhang2026spikehashlearningbinarycodes,
       title={SpikeHash: Learning Binary Codes with Spiking Neural Networks for Cross-Modal Hashing Retrieval}, 
